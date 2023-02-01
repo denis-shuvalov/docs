@@ -126,4 +126,3 @@ After this, all `Attachments` belonging to one `GenericObject` have been copied 
 * [Triggering a Microflow From a Menu Item](/refguide/triggering-microflow-from-menu-item/)
 * [Define Access Rules Using XPath](/howto/logic-business-rules/define-access-rules-using-xpath/)
 * [Extending Your Application with Custom Java](/refguide/extending-your-application-with-custom-java/)
-
